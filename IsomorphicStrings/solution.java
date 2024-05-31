@@ -1,4 +1,3 @@
-```java
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if(s.length() != t.length())
@@ -25,4 +24,3 @@ class Solution {
         return true;
     }
 }
-```
